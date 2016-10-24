@@ -29,6 +29,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/assets\/img\/kcl_1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160107,
+		"inputAbbreviatedPath": "\/assets\/img\/kcl_1.jpg",
+		"outputAbbreviatedPath": "\/assets\/img\/kcl_1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/config.rb": {
 		"fileType": 131072,
 		"ignore": 0,

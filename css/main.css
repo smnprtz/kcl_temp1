@@ -154,6 +154,8 @@ body {
           body main > div div.contact--cta {
             border-right: 0;
             border-bottom: 1px solid rgba(0, 0, 0, 0.1); } }
+      body main > div div.about img {
+        max-width: 100%; }
       body main > div div.service ul {
         text-align: center; }
         body main > div div.service ul li {
